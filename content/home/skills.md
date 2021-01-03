@@ -19,15 +19,15 @@ feature:
 - description: 90%
   icon: r-project
   icon_pack: fab
-  name: R
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Reverse Engineering
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Edgeville PK'en
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
