@@ -26,7 +26,7 @@ education:
   courses:
   - course: BSc in Cyber Security
     institution: Amsterdam University of Applied Sciences
-    year: 2019
+    year: 2019 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
