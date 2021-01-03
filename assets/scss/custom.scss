@@ -1,14 +1,18 @@
-.dark .navbar, body{
+body{
   background: rgb(10,25,47);
-  box-shadow: none
+}
+
+.dark .navbar{
+  background: rgb(10,25,47);
+  box-shadow: none;
 }
 
 .navbar{
-  box-shadow: none
+  box-shadow: none;
 }
 
 .dark .navbar-brand{
-  color: #62eccf
+  color: #62eccf;
 }
 
 .dark #navbar-main .main-menu-item ul li .nav-link {
