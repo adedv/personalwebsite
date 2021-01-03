@@ -1,4 +1,15 @@
-.dark .navbar
-{
-background: rgb(10,25,47);
+.dark .navbar{
+  background: rgb(10,25,47);
+}
+
+.navbar{
+  z-index: 0
+}
+
+.dark .navbar-brand{
+  color: #62eccf
+}
+
+.dark #navbar-main .main-menu-item ul li .nav-link {
+    color: #62eccf;
 }
