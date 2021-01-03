@@ -1,9 +1,10 @@
-.dark .navbar{
+.dark .navbar, body{
   background: rgb(10,25,47);
+  box-shadow: none
 }
 
 .navbar{
-  z-index: 0
+  box-shadow: none
 }
 
 .dark .navbar-brand{
